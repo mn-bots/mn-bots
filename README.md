@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MNBOTS- Telegram Bot & Web Developer</title>
   <link rel="stylesheet" href="lolo.css">
 </head>
 <body>
