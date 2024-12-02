@@ -3,20 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Your Name] - Telegram Bot & Web Developer</title>
+  <title>MNBOTS- Telegram Bot & Web Developer</title>
   <link rel="stylesheet" href="lolo.css">
 </head>
 <body>
   <div class="intro">
-    <h1>👋 Hello, I'm [Your Name]</h1>
-    <p>I’m a passionate <strong>Telegram Bot Developer</strong> and <strong>Web Developer</strong>. I love creating bots that automate tasks and websites that deliver great user experiences.</p>
+    <h1>👋 Hello, I'm MN-BOTS </h1>
+    <p>I’m a passionate <strong>Telegram Bot Developer</strong> . I love creating bots that deliver great user experiences.</p>
   </div>
 
   <div class="section">
     <h2>🚀 What I Do</h2>
     <ul>
       <li><strong>Telegram Bots</strong>: Creating interactive, user-friendly bots for automation and engagement.</li>
-      <li><strong>Web Development</strong>: Building responsive, scalable websites using modern technologies.</li>
     </ul>
   </div>
 
@@ -33,17 +32,14 @@
   </div>
 
   <div class="section">
-    <h2>🌟 Featured Projects</h2>
-    <p><a href="[Link-to-Telegram-Bot-Project]" class="project-link">1. Telegram Bot Project</a> - A bot that automates [feature of the bot].</p>
-    <p><a href="[Link-to-Web-App-Project]" class="project-link">2. Web App Project</a> - A responsive web app built with [Tech Stack] for [purpose].</p>
+    <h2>🌟 Featured Project</h2>
+    <p><a href="https://github.com/mn-bots/ShobanaFilterBot" class="project-link">1. Shobana Filter Bot</a> - AN auto FILTER bot.</p>
   </div>
 
   <div class="section">
     <h2>📬 Get in Touch</h2>
     <ul>
-      <li><strong>Telegram</strong>: <a href="https://t.me/YourUsername">YourUsername</a></li>
-      <li><strong>Email</strong>: <a href="mailto:YourEmail@example.com">YourEmail@example.com</a></li>
-      <li><strong>Portfolio</strong>: <a href="https://YourPortfolio.com">YourPortfolio.com</a></li>
+      <li><strong>Telegram</strong>: <a href="https://t.me/mrmntg">MN-TG</a></li>
     </ul>
   </div>
 
