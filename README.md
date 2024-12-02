@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>[Your Name] - Telegram Bot & Web Developer</title>
-  <link rel="stylesheet" href="[styles.css](https://mn-bots.github.io/ALL-CSS.css">
+  <link rel="stylesheet" href="lolo.css">
 </head>
 <body>
   <div class="intro">
